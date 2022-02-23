@@ -19,6 +19,11 @@ public class RESTAPITest {
 	{
 		System.out.println("deletetwitter");
 	}
-	
+@Test
+public void addjira()
+{
+	System.out.println("add jira");
+}
+
 
 }
