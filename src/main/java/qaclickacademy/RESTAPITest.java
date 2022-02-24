@@ -12,6 +12,10 @@ public class RESTAPITest {
 	System.out.println("postJira4");
 	System.out.println("postJira5");
 
+	System.out.println("postJira6");
+	System.out.println("postJira7");
+	System.out.println("postJira8");
+	System.out.println("postJira9");
 
 	}
 	@Test
@@ -19,6 +23,7 @@ public class RESTAPITest {
 	{
 		System.out.println("deletetwitter");
 	}
+<<<<<<< HEAD
 @Test
 public void addjira()
 {
@@ -26,4 +31,13 @@ public void addjira()
 }
 
 
+=======
+	
+	@Test
+	public void deletetwitter2()
+	{
+		System.out.println("deletetwitter2");
+	}
+	
+>>>>>>> 8640a987b59248c7403e4e2b9ffc3a28f8dae31d
 }
